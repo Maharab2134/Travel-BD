@@ -11,8 +11,6 @@
 ---
 
 ## 🌐 Live Demo & Project URL
-
-- **Live Website:** [https://travel.maharab.com.bd](https://travel.maharab.com.bd)
 - **Developer Profile:** [Maharab Hosen (@Maharab2134)](https://github.com/Maharab2134)
 
 ---
