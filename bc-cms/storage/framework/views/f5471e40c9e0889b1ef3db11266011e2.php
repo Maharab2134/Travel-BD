@@ -1,0 +1,2 @@
+<?php echo $__env->make('Review::frontend.form', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?>
+<?php /**PATH /home/creativedesignbd/travel.creativedesign.com.bd/bc-cms/themes/BC/Event/Views/frontend/layouts/details/review.blade.php ENDPATH**/ ?>
